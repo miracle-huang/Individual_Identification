@@ -2,10 +2,7 @@
 
 > **Project Tagline**: 異なる感情状態における心電図（ECG）信号を用いた個人識別システム。
 
-[![JSAI 2024](https://img.shields.io/badge/JSAI-2024-blue)](https://www.ai-gakkai.or.jp/jsai2024/)
-[![IEEE PICom 2024](https://img.shields.io/badge/IEEE-PICom%202024-00629B)](https://cyber-science.org/2024/picom/)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+[![IEEE CyberSciTech 2024](https://img.shields.io/badge/IEEE-CyberSciTech%202024-00629B)](https://cyber-science.org/2024/cyberscitech/)
 
 ## � 研究背景 (Research Background)
 
