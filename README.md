@@ -109,7 +109,7 @@ Individual_Identification/
 
 ### インストール (Installation)
 ```bash
-git clone <repository_url>
+git clone <https://github.com/miracle-huang/Individual_Identification.git>
 cd Individual_Identification
 pip install tensorflow numpy pandas scikit-learn openpyxl matplotlib seaborn
 ```
